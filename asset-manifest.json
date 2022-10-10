@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/First-Web-App-using-React/static/css/main.073c9b0a.css",
-    "main.js": "/First-Web-App-using-React/static/js/main.a7e6a0dc.js",
-    "static/js/787.3b88d7a5.chunk.js": "/First-Web-App-using-React/static/js/787.3b88d7a5.chunk.js",
-    "index.html": "/First-Web-App-using-React/index.html",
-    "main.073c9b0a.css.map": "/First-Web-App-using-React/static/css/main.073c9b0a.css.map",
-    "main.a7e6a0dc.js.map": "/First-Web-App-using-React/static/js/main.a7e6a0dc.js.map",
-    "787.3b88d7a5.chunk.js.map": "/First-Web-App-using-React/static/js/787.3b88d7a5.chunk.js.map"
+    "main.css": "/Text-Manipulator/static/css/main.073c9b0a.css",
+    "main.js": "/Text-Manipulator/static/js/main.434947c8.js",
+    "static/js/787.3b88d7a5.chunk.js": "/Text-Manipulator/static/js/787.3b88d7a5.chunk.js",
+    "index.html": "/Text-Manipulator/index.html",
+    "main.073c9b0a.css.map": "/Text-Manipulator/static/css/main.073c9b0a.css.map",
+    "main.434947c8.js.map": "/Text-Manipulator/static/js/main.434947c8.js.map",
+    "787.3b88d7a5.chunk.js.map": "/Text-Manipulator/static/js/787.3b88d7a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a7e6a0dc.js"
+    "static/js/main.434947c8.js"
   ]
 }
