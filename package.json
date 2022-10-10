@@ -1,6 +1,6 @@
 {
-  "homepage": "http://SoNiC-HeRe.github.io/First-Web-App-using-React",
-  "name": "first-web-app",
+  "homepage": "http://SoNiC-HeRe.github.io/Text-Manipulator",
+  "name": "Text-Manipulator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
